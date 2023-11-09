@@ -1,2 +1,2 @@
 # learning_python
-I am learning python and this is me tracking that journey.
+These are simply little code snippets to cover the basic fundamentals of Python. 
