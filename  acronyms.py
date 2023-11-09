@@ -16,3 +16,15 @@ print(acronyms)
 #or remove item by specified index using del
 del acronyms[0]
 print(acronyms)
+
+#######################################
+
+#Check if Exists in List
+word = 'Yeehaw'
+
+if word in acronyms:
+    print(word + ' is in the list.')
+else:
+    print(word + ' is not in the list.')
+    
+#expected result: Yeehaw is not in the list.
