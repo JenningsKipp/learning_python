@@ -28,3 +28,10 @@ else:
     print(word + ' is not in the list.')
     
 #expected result: Yeehaw is not in the list.
+
+#######################################
+
+#want to print each acronym in the list on a separate line? Make a loop!
+#for loop, for describes the loop- acronym1 is the loop variable- acronym2 is the list we're looping through.
+for acronym in acronyms:
+    print(acronym)
