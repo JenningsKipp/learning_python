@@ -36,4 +36,4 @@ person = { 'name': 'Kipp Jennings',
           'city' : 'Auburn',
           'age' : '31'}
 
-print(person.get('name'), 'is', person.get('age'), 'years old.')
+print(person.get('name'), 'is', person.get('age'), 'year(s) old.')
