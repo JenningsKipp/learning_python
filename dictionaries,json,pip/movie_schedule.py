@@ -12,7 +12,7 @@ movie = input('What movie would you like the showtime for?\n')
 
 showtime = current_movies.get(movie)
 
-if showtime == None:
+if showtime is None:
     print("Requested movie isn't playing")
 else:
     print(movie, 'is playing at', showtime)
