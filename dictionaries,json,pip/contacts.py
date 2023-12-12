@@ -13,3 +13,5 @@ contacts = {
 print('Student emails:')
 for student in contacts['students']:
     print(student['email'])
+    
+#Shows how to get specific parts out of dictionary that has a list of dictionaries
